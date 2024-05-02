@@ -1,1 +1,1 @@
-# DS4400FinalProject
+# Image Semantic Segmentation Model Comparison on Oxford-IIIT Pet Dataset
